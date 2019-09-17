@@ -5,6 +5,7 @@ GNL is a function that reads a file and allows you to read a line ending with a 
 ## WeThinkCode:
 
 **Mandatory:** 100/100
+
 **Bonus:** 25/25
 
 **Total:** 125/125
