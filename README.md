@@ -28,7 +28,7 @@ gcc -o test_gnl main.o get_next_line.o -I libft/includes -L libft/ -lft
 
 To test the function, you need to have files you want to read.
 
-# Running the Get_Next_Line function:
+## Running the Get_Next_Line function:
 
 Run the executable with './[executable name]' and add the file name you want to read:
 ```
